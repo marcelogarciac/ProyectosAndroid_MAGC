@@ -1,0 +1,5 @@
+<resources>
+     <string name="app_name">PrimeraAplicacion_MAGC</string>
+       <string name="titulo_aplicacion">Bienvenido</string>
+         <string name="Nombre_boton">Entrar</string>
+</resources>

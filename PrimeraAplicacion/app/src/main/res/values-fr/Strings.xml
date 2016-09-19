@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PremièreApplication_MAGC</string>
+    <string name="titulo_aplicacion">Bienvenue</string>
+    <string name="Nombre_boton">Entrer</string>
+
+</resources>
